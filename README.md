@@ -112,6 +112,13 @@ Profit Target Indicator =
 - Hardware constraints (i3, 8GB RAM) limited some 
   interactive features
 
+  ## Business Questions Answered
+1. Which salesperson is performing above/below target?
+2. How are monthly sales trending vs previous month?
+3. What is the shipment size distribution?
+4. Which months show highest sales volatility?
+5. Is the business hitting its 60% profit target?
+
 ## Tools Used
 Power BI Desktop | Power Query | DAX | Time Intelligence
 
