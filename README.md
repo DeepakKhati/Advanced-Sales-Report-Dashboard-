@@ -116,8 +116,19 @@ Profit Target Indicator =
 Power BI Desktop | Power Query | DAX | Time Intelligence
 
 ## Screenshots
+
+## KPI Dashboard with Trend analysis
 ![Page 1](https://github.com/DeepakKhati/Advanced-Sales-Report-Dashboard-/blob/main/Screenshots/01_LSB_by_products.png)
+
+## Month on Month Sales Analysis
 ![Page 2](https://github.com/DeepakKhati/Advanced-Sales-Report-Dashboard-/blob/main/Screenshots/02_Total_sales_at_SOM.png)
+
+## Main Dashboard 
 ![Page 3](https://github.com/DeepakKhati/Advanced-Sales-Report-Dashboard-/blob/main/Screenshots/03_main_sales_report.png)
+
+
+## Shipment Distribution Analysis
 ![Page 4](https://github.com/DeepakKhati/Advanced-Sales-Report-Dashboard-/blob/main/Screenshots/04_Total_shipment.png)
+
+## Profit Target Indicator By Salesperson
 ![Page 5](https://github.com/DeepakKhati/Advanced-Sales-Report-Dashboard-/blob/main/Screenshots/05_target_per_salesperson.png)
